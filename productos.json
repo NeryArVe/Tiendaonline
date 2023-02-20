@@ -5,43 +5,7 @@
         "price": 150,
         "category": "carteras",
         "description": "Es una billetera de toda la vida",
-        "image": "https://ibb.co/MPM3FTJ"
-    },
-    {
-        "id": "2",
-        "nombre": "cinturon hombre",
-        "price": 25,
-        "category": "accesorios",
-        "description": "Para amarrarte la cintura",
-        "image": "https://ibb.co/gyzy745"
-    },
-    {
-        "id": "3",
-        "nombre": "bolso mujer",
-        "price": 450,
-        "category": "carteras",
-        "description": "Bolso de marca",
-        "image": "https://ibb.co/VgNRv83"
-    },
-    {
-        "id": "4",
-        "nombre": "blusa mujer",
-        "price": 35,
-        "category": "ropa",
-        "description": "blusa para verano mujer",
-        "image": "https://ibb.co/N9GSYjL"
-    },
-    {
-        "id": "5",
-        "nombre": "camiseta hombre",
-        "price": 29,
-        "category": "ropa",
-        "description": "camisetas hombre verano",
-        "image": "https://ibb.co/xSNcH1G"
+        "image": "https://i.postimg.cc/RhZsjD8M/camiseta-hombre.jpg"
     }
-
-
-
-
-
 ]
+    
