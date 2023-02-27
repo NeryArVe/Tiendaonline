@@ -1,0 +1,78 @@
+[
+    {
+        "id": "1" ,
+        "nombre": "Flan" ,
+        "price": "€ 3,00",
+        "category": "postres",
+        "descripcion": "El flan de huevo es un postre perfecto para fiestas infantiles o celebraciones familiares. Nuestro flan de huevo artesano de toda la vida,  con su base de caramelo, para que disfrutes con el sabor tradicional de la receta de la abuela, elaborado a base de leche fresca, azucar , huevo , raspadura de limón y canela en rama.",
+        "image": "https://i.ibb.co/YpQtZnZ/Flan-id1.png"
+    },
+    {
+    "id": "2" ,
+    "nombre": "Macedonia" ,
+    "price": "€ 3,90",
+    "category": "postres",
+    "descripcion": "Nuestra ensalada de frutas es ideal para verano, hecha con fruta fresca de proximidad. Hidratan, refrescan y aportan múltiples vitaminas y minerales, con muchos beneficios para el organismo. Regulan la función intestinal, por la riqueza en fibra. Elaborado a base de Agua, zumo de naranja y limón, azucar, manzana, melocotón, kiwui, frambuesas, ",
+    "image":"https://i.ibb.co/n1qVKKc/Macedonia-id2.png"
+    },
+    {
+    "id": "3" ,
+    "nombre": "Tarta de chocolate" ,
+    "price": "€ 5,00",
+    "category": "postres",
+    "descripcion": "Esponjosa tarta de chocolate con finas capas de inteno sabor. La tarta de chocolate o torta de chocolate, es un postre típico en reuniones, cumpleaños y bodas. Elaborado a base de harina, levadura, huevos, leche, yogurt, azucar, cacao en polvo, aceite girasol, esencia de vainilla y sal.",
+    "image":"https://i.ibb.co/bv8pP0J/Tortachocolate-id3.png"
+
+
+    },
+    {
+    "id": "4" ,
+    "nombre": "Tiramisú" ,
+    "price": "€ 4,00",
+    "category": "Postre",
+    "descripcion": "Crujiente barra de pan de cereales hecha con masa madre y horneada al horno de piedra. El tiramisú es uno de los postres más populares del mundo. Es un plato dulce tradicional italiano, preparado con café, bizcocho, yemas de huevo, queso mascarpone, cacao y ron",
+    "image":"https://i.ibb.co/9gsW3vb/Tiramisu-id4.png"
+
+
+    },
+    {
+    "id": "5" ,
+    "nombre": "Pan de centeno" ,
+    "price": "€ 1.75",
+    "category": "Pan",
+    "descripcion": "El pan de centeno contiene menos gluten que los otros y tiene un sabor ligeramente amargo. Está elaborado con la harina de centeno, la panificación muestra una miga más oscura que el pan de trigo. Ingredientes a base de agua, leche, melaza, sal y harinas de fuerza, trigo y centeno.",
+    "image":"https://i.ibb.co/vsVkgB2/pandecenteno-id5.png"
+
+
+    },
+    {
+    "id": "6" ,
+    "nombre": "Helado de Vainilla",
+    "price": "€ 3,25",
+    "category": "Postre",
+    "descripcion": "Helado sin lactosa, más digestivo para personas con problemas de intolerancia. Elaborado a base de leche sin lactosa, yemas de huevo, azucar, nata sin lactosa, vainilla, galleta cereza confitada y caramelo líquido.",
+    "image":"https://i.ibb.co/yqsDWpx/Heladovainillaid6.png"
+
+
+    },
+    {
+    "id": "7" ,
+    "nombre": "Cookies" ,
+    "price": "€ 3,00",
+    "category": "Postre",
+    "descripcion": "Crujientes galletas con pepitas de chocolate y suave aroma a vainilla. Elaborado a base de harina, levadura, huevos, azucar, mantequilla, esencia de vainilla y pepitas de chocolate.",
+    "image":"https://i.ibb.co/55dy2jW/cookies-id7.png"
+
+
+    },
+    {
+    "id": "8" ,
+    "nombre": "Croissant" ,
+    "price": "€ 2,50",
+    "category": "Bolleria",
+    "descripcion": "Crujientes croissants rellenos de chocolate. Elaborado a base de harina, agua, mantequilla,chocolate, huevo, sal y azucar",
+    "image":"https://i.ibb.co/pf5Zp23/croissantid8.png"
+
+
+    }
+]
